@@ -1,0 +1,88 @@
+.container-fluid{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+  
+}
+nav{
+    border: none;
+}
+.navbar-header{
+padding-left: 50px;
+padding-bottom: ;
+padding-top: 35px;
+
+}
+
+.navbar-right{
+    display: inline-block;
+    margin-top:70px;
+    padding-right: 50px;
+}
+
+.navbar-logo {
+    display: inline;
+    float: left;
+    margin-top;
+}
+
+.logo-text{
+font-size: 25px;
+line-height: 16px;
+padding-left: 70px;
+padding-top: 28px;
+}
+
+span{
+display: block;
+font-size: 16px;
+color: orange;
+
+}
+
+.thumbnail{
+    height: 400px;
+    width: 330px;
+    padding-right: 20px;
+    filter: drop-shadow(3px 3px 2px grey);
+}
+
+.row{
+    width: 1170px;
+    margin-bottom: 50px;
+}
+
+.col-lg-6-text{
+    margin-left: 100px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
